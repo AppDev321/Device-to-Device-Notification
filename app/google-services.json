@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "569762641071",
+    "firebase_url": "https://topicfirebase-9db77.firebaseio.com",
+    "project_id": "topicfirebase-9db77",
+    "storage_bucket": "topicfirebase-9db77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569762641071:android:1540d8d1a82ab48a",
+        "android_client_info": {
+          "package_name": "com.example.mabrouk.sentnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569762641071-bk5th9bob06speonkt7hcpbmko6m95f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mabrouk.sentnotifications",
+            "certificate_hash": "c012660922b5260f3a6678fe6c4dacc44e1d41d5"
+          }
+        },
+        {
+          "client_id": "569762641071-avot23sf2ptc32k3u6h2g0kt97gqr5s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC7nEZwJTm3FqiZyN_nqRbtBVoxkalbDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569762641071-avot23sf2ptc32k3u6h2g0kt97gqr5s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569762641071:android:b7899e4f2c3abc65",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.topicfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569762641071-fde7ur4cb4oo0jsc3vhmp2siblb08sfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohamed.topicfirebase",
+            "certificate_hash": "b54931cd6c834ac5b134f7c8322e90dd87a7dba1"
+          }
+        },
+        {
+          "client_id": "569762641071-avot23sf2ptc32k3u6h2g0kt97gqr5s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC7nEZwJTm3FqiZyN_nqRbtBVoxkalbDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569762641071-avot23sf2ptc32k3u6h2g0kt97gqr5s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
